@@ -65,16 +65,15 @@ a:hover {
         -ms-user-select: none;
             user-select: none;
 }
-
-::selection {
+::-webkit-selection {
 	background: #eee;
 	color: rgba(0,0,0,.75);
 }
-
 ::-moz-selection {
-	background: #0a0b0c;
+	background: #eee;
+	color: rgba(0,0,0,.75);
 }
-
-::-webkit-selection {
-	background: #0a0b0c;
+::selection {
+	background: #eee;
+	color: rgba(0,0,0,.75);
 }
