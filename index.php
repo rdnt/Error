@@ -18,7 +18,7 @@
 <link rel="shortcut icon" href="/images/favicon.ico">
 </head>
 <body>
-	<h6>OOPS</h6>
+	<h1>OOPS</h1>
 	<span>You're not supposed to be here.</span>
 	<a href="https://www.sht.gr">SHT.GR</a>
 </body>
