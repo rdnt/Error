@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta name="robots" content="noindex">
 <title>SHT - Error</title>
